@@ -42,7 +42,7 @@ function Column(id, name) {
 			.append(columnCardList);
 			return column;
 		}
-	};
+	}
 Column.prototype = {
 	createCard: function(card) {
 	  this.element.children('ul').append(card.element);
