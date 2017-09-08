@@ -1,0 +1,27 @@
+{
+  "name": "trello",
+  "version": "1.0.0",
+  "description": "trello",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/savespace/New_trello.git"
+  },
+  "keywords": [
+    "tlo"
+  ],
+  "author": "Krzysztof Zielonka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/savespace/New_trello/issues"
+  },
+  "homepage": "https://github.com/savespace/New_trello#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-sass": "^2.0.0"
+  }
+}
